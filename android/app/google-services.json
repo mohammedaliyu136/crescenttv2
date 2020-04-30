@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1037277576210",
+    "firebase_url": "https://crescent-c1727.firebaseio.com",
+    "project_id": "crescent-c1727",
+    "storage_bucket": "crescent-c1727.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037277576210:android:ea3f0f7aecaa0e1473eccb",
+        "android_client_info": {
+          "package_name": "ng.com.intija.crescenttv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037277576210-7rgsvmrqf9h39b606ckp5lmsk5roloa8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQe6wLDYiT-sRB1-WIuZdIx-P2N1Uo-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037277576210-7rgsvmrqf9h39b606ckp5lmsk5roloa8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
