@@ -41,5 +41,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>The permission is needed to pick an image upload for iwitness report </string>
+
+    <key>NSCameraUsageDescription</key>
+    <string>The permission is needed to take an image upload for iwitness report </string>
 </dict>
 </plist>
